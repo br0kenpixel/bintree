@@ -368,7 +368,7 @@ impl<T> BinTree<T> {
     }
 
     /// Returns a [`Vec`](Vec) of references to all nodes in the binary tree.
-    /// This "browsing" the tree as if it was an array.
+    /// This allows "browsing" the tree as if it was an array.
     ///
     /// ## Notes
     /// This method is recursive. Traveling left is prioritized.
