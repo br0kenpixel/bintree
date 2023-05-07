@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"bintree":[["impl&lt;T&gt; Freeze for <a class=\"struct\" href=\"bintree/struct.BinTree.html\" title=\"struct bintree::BinTree\">BinTree</a>&lt;T&gt;<span class=\"where fmt-newline\">where\n    T: Freeze,</span>",1,["bintree::BinTree"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
